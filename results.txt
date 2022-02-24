@@ -1,0 +1,210 @@
+Results for example file 'example.txt'
+First Come, First Served:
+Avg. Resp.:15.00, Avg. T.A.:27.00, Avg. Wait:15.00
+Shortest Job First:
+Avg. Resp.:9.00, Avg. T.A.:21.00, Avg. Wait:9.00
+Shortest Run Time First:
+Avg. Resp.:7.00, Avg. T.A.:20.00, Avg. Wait:8.00
+Round Robin:
+Avg. Resp.:9.00, Avg. T.A.:27.00, Avg. Wait:15.00
+
+Results for example file 'ex01.txt'
+First Come, First Served:
+Avg. Resp.:4.00, Avg. T.A.:14.00, Avg. Wait:4.00
+Shortest Job First:
+Avg. Resp.:3.00, Avg. T.A.:13.00, Avg. Wait:3.00
+Shortest Run Time First:
+Avg. Resp.:3.00, Avg. T.A.:13.00, Avg. Wait:3.00
+Round Robin:
+Avg. Resp.:2.00, Avg. T.A.:17.00, Avg. Wait:7.00
+
+Results for example file 'ex02.txt'
+First Come, First Served:
+Avg. Resp.:11.00, Avg. T.A.:25.00, Avg. Wait:11.00
+Shortest Job First:
+Avg. Resp.:9.00, Avg. T.A.:23.00, Avg. Wait:9.00
+Shortest Run Time First:
+Avg. Resp.:7.00, Avg. T.A.:23.00, Avg. Wait:9.00
+Round Robin:
+Avg. Resp.:7.00, Avg. T.A.:28.00, Avg. Wait:14.00
+
+Results for example file 'ex03.txt'
+First Come, First Served:
+Avg. Resp.:22.00, Avg. T.A.:41.00, Avg. Wait:22.00
+Shortest Job First:
+Avg. Resp.:21.00, Avg. T.A.:40.00, Avg. Wait:21.00
+Shortest Run Time First:
+Avg. Resp.:18.00, Avg. T.A.:40.00, Avg. Wait:21.00
+Round Robin:
+Avg. Resp.:13.00, Avg. T.A.:51.00, Avg. Wait:32.00
+
+Results for example file 'ex04.txt'
+First Come, First Served:
+Avg. Resp.:26.00, Avg. T.A.:44.00, Avg. Wait:26.00
+Shortest Job First:
+Avg. Resp.:24.00, Avg. T.A.:42.00, Avg. Wait:24.00
+Shortest Run Time First:
+Avg. Resp.:22.00, Avg. T.A.:42.00, Avg. Wait:24.00
+Round Robin:
+Avg. Resp.:14.00, Avg. T.A.:52.00, Avg. Wait:34.00
+
+Results for example file 'ex05.txt'
+First Come, First Served:
+Avg. Resp.:26.50, Avg. T.A.:47.50, Avg. Wait:26.50
+Shortest Job First:
+Avg. Resp.:19.00, Avg. T.A.:40.00, Avg. Wait:19.00
+Shortest Run Time First:
+Avg. Resp.:13.00, Avg. T.A.:35.00, Avg. Wait:14.00
+Round Robin:
+Avg. Resp.:8.50, Avg. T.A.:51.00, Avg. Wait:30.00
+
+Results for example file 'ex06.txt'
+First Come, First Served:
+Avg. Resp.:63.00, Avg. T.A.:92.00, Avg. Wait:63.00
+Shortest Job First:
+Avg. Resp.:48.00, Avg. T.A.:77.00, Avg. Wait:48.00
+Shortest Run Time First:
+Avg. Resp.:41.00, Avg. T.A.:74.00, Avg. Wait:45.00
+Round Robin:
+Avg. Resp.:22.50, Avg. T.A.:118.00, Avg. Wait:89.00
+
+Results for example file 'ex07.txt'
+First Come, First Served:
+Avg. Resp.:68.00, Avg. T.A.:93.50, Avg. Wait:68.00
+Shortest Job First:
+Avg. Resp.:53.00, Avg. T.A.:78.50, Avg. Wait:53.00
+Shortest Run Time First:
+Avg. Resp.:51.00, Avg. T.A.:77.00, Avg. Wait:51.50
+Round Robin:
+Avg. Resp.:30.00, Avg. T.A.:115.00, Avg. Wait:89.50
+
+Results for example file 'ex08.txt'
+First Come, First Served:
+Avg. Resp.:85.00, Avg. T.A.:109.00, Avg. Wait:85.00
+Shortest Job First:
+Avg. Resp.:49.00, Avg. T.A.:73.00, Avg. Wait:49.00
+Shortest Run Time First:
+Avg. Resp.:47.50, Avg. T.A.:72.00, Avg. Wait:48.00
+Round Robin:
+Avg. Resp.:31.50, Avg. T.A.:132.00, Avg. Wait:108.00
+
+Results for example file 'ex09.txt'
+First Come, First Served:
+Avg. Resp.:104.00, Avg. T.A.:143.00, Avg. Wait:104.00
+Shortest Job First:
+Avg. Resp.:79.00, Avg. T.A.:118.00, Avg. Wait:79.00
+Shortest Run Time First:
+Avg. Resp.:71.00, Avg. T.A.:116.00, Avg. Wait:77.00
+Round Robin:
+Avg. Resp.:33.00, Avg. T.A.:203.00, Avg. Wait:164.00
+
+Results for example file 'ex10.txt'
+First Come, First Served:
+Avg. Resp.:117.33, Avg. T.A.:147.67, Avg. Wait:117.33
+Shortest Job First:
+Avg. Resp.:75.00, Avg. T.A.:105.33, Avg. Wait:75.00
+Shortest Run Time First:
+Avg. Resp.:33.33, Avg. T.A.:92.33, Avg. Wait:62.00
+Round Robin:
+Avg. Resp.:38.33, Avg. T.A.:177.33, Avg. Wait:147.00
+
+Results for example file 'ex11.txt'
+First Come, First Served:
+Avg. Resp.:185.33, Avg. T.A.:222.33, Avg. Wait:185.33
+Shortest Job First:
+Avg. Resp.:132.00, Avg. T.A.:169.00, Avg. Wait:132.00
+Shortest Run Time First:
+Avg. Resp.:107.33, Avg. T.A.:157.00, Avg. Wait:120.00
+Round Robin:
+Avg. Resp.:47.00, Avg. T.A.:282.33, Avg. Wait:245.33
+
+Results for example file 'ex12.txt'
+First Come, First Served:
+Avg. Resp.:172.33, Avg. T.A.:204.33, Avg. Wait:172.33
+Shortest Job First:
+Avg. Resp.:114.67, Avg. T.A.:146.67, Avg. Wait:114.67
+Shortest Run Time First:
+Avg. Resp.:71.33, Avg. T.A.:124.00, Avg. Wait:92.00
+Round Robin:
+Avg. Resp.:46.00, Avg. T.A.:234.33, Avg. Wait:202.33
+
+Results for example file 'ex13.txt'
+First Come, First Served:
+Avg. Resp.:145.75, Avg. T.A.:197.50, Avg. Wait:145.75
+Shortest Job First:
+Avg. Resp.:106.00, Avg. T.A.:157.75, Avg. Wait:106.00
+Shortest Run Time First:
+Avg. Resp.:76.50, Avg. T.A.:148.50, Avg. Wait:96.75
+Round Robin:
+Avg. Resp.:35.00, Avg. T.A.:271.75, Avg. Wait:220.00
+
+Results for example file 'ex14.txt'
+First Come, First Served:
+Avg. Resp.:243.25, Avg. T.A.:293.75, Avg. Wait:243.25
+Shortest Job First:
+Avg. Resp.:159.75, Avg. T.A.:210.25, Avg. Wait:159.75
+Shortest Run Time First:
+Avg. Resp.:153.75, Avg. T.A.:207.50, Avg. Wait:157.00
+Round Robin:
+Avg. Resp.:58.75, Avg. T.A.:421.25, Avg. Wait:370.75
+
+Results for example file 'ex15.txt'
+First Come, First Served:
+Avg. Resp.:323.25, Avg. T.A.:376.25, Avg. Wait:323.25
+Shortest Job First:
+Avg. Resp.:228.00, Avg. T.A.:281.00, Avg. Wait:228.00
+Shortest Run Time First:
+Avg. Resp.:208.75, Avg. T.A.:273.50, Avg. Wait:220.50
+Round Robin:
+Avg. Resp.:60.25, Avg. T.A.:527.25, Avg. Wait:474.25
+
+Results for example file 'ex16.txt'
+First Come, First Served:
+Avg. Resp.:365.50, Avg. T.A.:412.75, Avg. Wait:365.50
+Shortest Job First:
+Avg. Resp.:224.75, Avg. T.A.:272.00, Avg. Wait:224.75
+Shortest Run Time First:
+Avg. Resp.:166.75, Avg. T.A.:254.50, Avg. Wait:207.25
+Round Robin:
+Avg. Resp.:75.25, Avg. T.A.:497.00, Avg. Wait:449.75
+
+Results for example file 'ex17.txt'
+First Come, First Served:
+Avg. Resp.:272.80, Avg. T.A.:349.20, Avg. Wait:272.80
+Shortest Job First:
+Avg. Resp.:196.40, Avg. T.A.:272.80, Avg. Wait:196.40
+Shortest Run Time First:
+Avg. Resp.:174.20, Avg. T.A.:267.80, Avg. Wait:191.40
+Round Robin:
+Avg. Resp.:47.60, Avg. T.A.:511.20, Avg. Wait:434.80
+
+Results for example file 'ex18.txt'
+First Come, First Served:
+Avg. Resp.:527.20, Avg. T.A.:607.40, Avg. Wait:527.20
+Shortest Job First:
+Avg. Resp.:336.00, Avg. T.A.:416.20, Avg. Wait:336.00
+Shortest Run Time First:
+Avg. Resp.:304.60, Avg. T.A.:405.60, Avg. Wait:325.40
+Round Robin:
+Avg. Resp.:81.60, Avg. T.A.:823.20, Avg. Wait:743.00
+
+Results for example file 'ex19.txt'
+First Come, First Served:
+Avg. Resp.:622.00, Avg. T.A.:690.60, Avg. Wait:622.00
+Shortest Job First:
+Avg. Resp.:364.20, Avg. T.A.:432.80, Avg. Wait:364.20
+Shortest Run Time First:
+Avg. Resp.:277.20, Avg. T.A.:395.00, Avg. Wait:326.40
+Round Robin:
+Avg. Resp.:84.40, Avg. T.A.:804.60, Avg. Wait:736.00
+
+Results for example file 'ex20.txt'
+First Come, First Served:
+Avg. Resp.:754.00, Avg. T.A.:823.20, Avg. Wait:754.00
+Shortest Job First:
+Avg. Resp.:479.00, Avg. T.A.:548.20, Avg. Wait:479.00
+Shortest Run Time First:
+Avg. Resp.:380.60, Avg. T.A.:501.60, Avg. Wait:432.40
+Round Robin:
+Avg. Resp.:97.20, Avg. T.A.:1017.60, Avg. Wait:948.40
+
